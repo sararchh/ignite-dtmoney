@@ -31,7 +31,7 @@ createServer({
     })
   },
 
-  routes() {
+  routes() { //Definir rotas
     this.namespace = 'api';
 
     this.get('/transactions', () => {
