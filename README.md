@@ -15,7 +15,7 @@
 ## 💻 Projeto
   
 
-Este projeto é uma aplicação ReactJS com typescript desafio da rocketseat ignite aplicação dtmoney gerenciamento de recekitas e despesas.
+Este projeto é uma aplicação ReactJS com typescript desafio da rocketseat ignite aplicação dtmoney gerenciamento de receitas e despesas.
   
 
 ## 🧪 Tecnologias
